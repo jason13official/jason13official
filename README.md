@@ -1,11 +1,17 @@
 # Hey there, I'm Jason13.
-> ...a generalized software developer, with experience in Full-Stack Web Development (React/Next, Typescript, SCSS/SASS, PHP, MongoDB, SQL), Minecraft Mod Development (Java), and Machine Learning (Python).
-
-🤔 I’m looking for help with Minecraft mods! If you can teach me, I'm willing to learn.
+> ...a generalized software developer, with experience in Full-Stack Web Development (React/Next, Typescript, SCSS/SASS, PHP, MongoDB, SQL), Minecraft Mod Development (Java/Kotlin), and Machine Learning (Python).
 
 📫 How to reach me: jason13official@gmail.com
 
-Click [here](https://jason13official.github.io) to view this README file as a web-page and access more content.
+---
+
+## Check Out Our Funky Cool New Sites
+
+[https://jason13official.github.io](https://jason13official.github.io)
+
+[https://cursee-development.github.io](https://cursee-development.github.io)
+
+
 
 <!-- Starting Template from GitHub -->
 <!-- ### Hi there 👋 -->
