@@ -10,7 +10,7 @@
 
 ---
 
-Check out [jason13official.github.io](https://www.jason13official.github.io/) for more information on my current projects, previous works, or commissioning me for your project!
+Check out [jason13official.github.io](https://jason13official.github.io/) for more information on my current projects, previous works, or commissioning me for your project!
 
 I am actively transitioning all of the repositories for mods I maintain to my organization [Cursee Development](https://www.github.com/Cursee-Development) (WIP). 
 
