@@ -1,31 +1,22 @@
-# Hey there, I'm Jason13.
-> ...a generalized software developer, with experience in Full-Stack Web Development (React/Next, Typescript, SCSS/SASS, PHP, MongoDB, SQL), Minecraft Mod Development (Java/Kotlin), and Machine Learning (Python).
+# Hi, I'm Jason.
+> ... a generalized software developer, with experience in developing websites, videogames, and mods (for videogames).
 
-📫 How to reach me: jason13official@gmail.com
+📫 How to reach me:
+- E-Mail: jason13official@gmail.com
+- **Discord**: `jason13` (**preferred**), or jason13official
+- CurseForge: You can manually enter my username `jason13official` when sending a new private message, or [click here](https://legacy.curseforge.com/private-messages/send?recipient=jason13official) to send me a message on the legacy website.
+- Instagram: [@jason13jason13](https://www.instagram.com/jason13jason13/)
+- Reddit: [/u/jason13official](https://www.reddit.com/u/jason13official)
 
 ---
 
-## Check Out Our Funky Cool New Sites
+Check out [jason13official.github.io](https://www.jason13official.github.io/) for more information on my current projects, previous works, or commissioning me for your project!
 
-[https://jason13official.github.io](https://jason13official.github.io)
+I am actively transitioning all of the repositories for mods I maintain to my organization [Cursee Development](https://www.github.com/Cursee-Development) (WIP). 
 
-[https://cursee-development.github.io](https://cursee-development.github.io)
+(This means that some repositories may randomly dissapear from this account, at any moment!)
 
-
-
-<!-- Starting Template from GitHub -->
-<!-- ### Hi there 👋 -->
 <!--
-**jason13official/jason13official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[https://jason13official.github.io](https://jason13official.github.io)
+[https://cursee-development.github.io](https://cursee-development.github.io)
 -->
