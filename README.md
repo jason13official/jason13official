@@ -5,8 +5,6 @@
 - E-Mail: jason13official@gmail.com
 - **Discord**: `jason13` (**preferred**), or jason13official
 - CurseForge: You can manually enter my username `jason13official` when sending a new private message, or [click here](https://legacy.curseforge.com/private-messages/send?recipient=jason13official).
-- Instagram: [@jason13jason13](https://www.instagram.com/jason13jason13/)
-- Reddit: [/u/jason13official](https://www.reddit.com/u/jason13official)
 
 ---
 
